@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
 public class LogWriter {
-    private File auditFile = new File("Audit.txt");
+    private File auditFile = new File("audit.txt");
 
 
     public LogWriter() {

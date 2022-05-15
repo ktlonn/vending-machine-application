@@ -10,6 +10,6 @@ public class Munchies extends Product {
 
     @Override
     public String getMessage() {
-        return "Munchy, Munchy, so Good!";
+        return "Time for something savory!";
     }
 }

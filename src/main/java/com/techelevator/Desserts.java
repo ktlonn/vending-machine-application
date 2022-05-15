@@ -10,6 +10,6 @@ public class Desserts extends Product {
 
     @Override
     public String getMessage() {
-        return "Sugar, Sugar, so Sweet!";
+        return "Time for a sugar rush!";
     }
 }

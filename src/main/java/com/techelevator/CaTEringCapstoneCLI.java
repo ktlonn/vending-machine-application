@@ -33,7 +33,7 @@ public class CaTEringCapstoneCLI {
 
 	public void run() {
 
-		File inputFile = new File("catering1.csv");
+		File inputFile = new File("catering.csv");
 
 		try {
 			Scanner fileScanner = new Scanner(inputFile);

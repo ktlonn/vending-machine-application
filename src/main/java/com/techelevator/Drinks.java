@@ -10,6 +10,6 @@ public class Drinks extends Product {
 
     @Override
     public String getMessage() {
-        return "Drinky, Drinky, Slurp Slurp!";
+        return "How refreshing!";
     }
 }
