@@ -25,7 +25,6 @@ public class CaTEringCapstoneCLI {
 		Menu menu = new Menu();
 		CaTEringCapstoneCLI cli = new CaTEringCapstoneCLI(menu);
 
-
 		cli.run();
 
 	}

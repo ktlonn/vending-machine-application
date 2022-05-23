@@ -28,7 +28,7 @@ public class DessertsTest {
     @Test
     public void test_dessert_message() {
 
-        assertEquals("Sugar, Sugar, so Sweet!", dessert.getMessage());
+        assertEquals("Time for a sugar rush!", dessert.getMessage());
 
     }
 

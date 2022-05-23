@@ -1,6 +1,8 @@
 ## Vending Machine Application
 
-This application is a pair-programmed mini capstone assignment, which was created during my time as a Java development bootcamp student. It enables a customer to purchase food items from a vending machine.
+This application is a pair-programmed mini capstone assignment, which was created during my time as a Java development bootcamp student. It is based off of our Introduction to Java Programming, utilizing OOP principles and basic Java fundamentals. 
+
+This application enables a customer to purchase food items from a vending machine.
 
 ### Key Features
 

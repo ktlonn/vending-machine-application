@@ -28,7 +28,7 @@ public class MunchiesTest {
     @Test
     public void test_munchy_message() {
 
-        assertEquals("Munchy, Munchy, so Good!", munchy.getMessage());
+        assertEquals("Time for something savory!", munchy.getMessage());
 
     }
 

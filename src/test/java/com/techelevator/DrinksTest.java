@@ -34,7 +34,7 @@ public class DrinksTest {
     public void test_get_message(){
         Drinks drinks = new Drinks("Tea", new BigDecimal("2.50"), "B4");
 
-        assertEquals("Drinky, Drinky, Slurp Slurp!", drinks.getMessage());
+        assertEquals("How refreshing!", drinks.getMessage());
     }
 
     @Test

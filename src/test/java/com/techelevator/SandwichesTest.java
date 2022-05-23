@@ -28,7 +28,7 @@ public class SandwichesTest {
     @Test
     public void test_sandwich_message() {
 
-        assertEquals("Sandwich So Delicious, Yum!", sandwich.getMessage());
+        assertEquals("Yum!", sandwich.getMessage());
 
     }
 
